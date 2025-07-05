@@ -1,3 +1,7 @@
+import pygetwindow
+
+print(pygetwindow.getActiveWindowTitle())
+
 def square(n):
     return n * n
 
